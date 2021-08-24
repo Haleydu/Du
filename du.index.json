@@ -18,6 +18,24 @@
     ]
   },
   {
+    "name": "Du: WuqiManga",
+    "pkg": "com.haleydu.du.extension.zh.wuqimanga",
+    "apk": "du-zh.wuqimanga-v1.2.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "57漫画",
+        "lang": "zh",
+        "id": "6973908146706613748",
+        "baseUrl": "http://www.wuqimh.com",
+        "nsfw": false
+      }
+    ]
+  },
+  {
     "name": "Du: QiXiManhua",
     "pkg": "com.haleydu.du.extension.zh.qiximh",
     "apk": "du-zh.qiximh-v1.2.2.apk",
