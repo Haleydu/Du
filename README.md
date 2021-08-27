@@ -9,7 +9,7 @@
 - 卷轴阅读模式
 - 收藏漫画、检查漫画更新
 - 本地备份恢复、webdav云备份和恢复功能
-- 
+
 
 # 下载
 > 安卓apk下载地址[软件下载](https://github.com/Haleydu/Du/releases)
