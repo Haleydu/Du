@@ -15,11 +15,10 @@
 > 安卓apk下载地址[软件下载](https://github.com/Haleydu/Du/releases)
 
 # 应用截图
-- 手机
+- 手机和平板
 <img src="./screenshot/01.png" width="250">
 <img src="./screenshot/02.png" width="250">
 <img src="./screenshot/03.png" width="250">
-- 平板
 <img src="./screenshot/04.png" width="250">
 <img src="./screenshot/05.png" width="250">
 <img src="./screenshot/06.png" width="250">
