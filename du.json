@@ -313,6 +313,24 @@
     ]
   },
   {
+    "name": "Du: Manhuacat",
+    "pkg": "com.haleydu.du.extension.zh.manhuacat",
+    "apk": "du-zh.manhuacat-v1.2.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "漫画猫",
+        "lang": "zh",
+        "id": "8222546098445946000",
+        "baseUrl": "https://www.manhuacat.com",
+        "nsfw": false
+      }
+    ]
+  },
+  {
     "name": "Du: Pufei",
     "pkg": "com.haleydu.du.extension.zh.pufei",
     "apk": "du-zh.pufei-v1.2.7.apk",
