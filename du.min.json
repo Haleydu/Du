@@ -18,6 +18,24 @@
     ]
   },
   {
+    "name": "Du: Baozimanhua",
+    "pkg": "com.haleydu.du.extension.zh.baozimanhua",
+    "apk": "du-zh.baozimanhua-v1.2.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "包子漫画",
+        "lang": "zh",
+        "id": "548708793520724600",
+        "baseUrl": "https://cn.baozimh.com",
+        "nsfw": false
+      }
+    ]
+  },
+  {
     "name": "Du: BH3",
     "pkg": "com.haleydu.du.extension.zh.bh3",
     "apk": "du-zh.bh3-v1.2.3.apk",
