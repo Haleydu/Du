@@ -457,6 +457,24 @@
     ]
   },
   {
+    "name": "Du: Yimh",
+    "pkg": "com.haleydu.du.extension.zh.yimh",
+    "apk": "du-zh.yimh-v1.2.2.apk",
+    "lang": "zh",
+    "code": 2,
+    "version": "1.2.2",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "忆漫画",
+        "lang": "zh",
+        "id": "6839849318330683000",
+        "baseUrl": "https://m.yimmh.com",
+        "nsfw": false
+      }
+    ]
+  },
+  {
     "name": "Du: Zerobyw",
     "pkg": "com.haleydu.du.extension.zh.zerobyw",
     "apk": "du-zh.zerobyw-v1.2.2.apk",
