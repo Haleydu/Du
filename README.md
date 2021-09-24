@@ -24,7 +24,7 @@
 <img src="./screenshot/06.png" width="250">
 
 # 设计思路
-> 软件的设计思路来自国外知名的漫画软件“趣立”
+> 代码内核完全来自国外知名的漫画软件[趣立 tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
 
 # 关注Cimoc微信公众号获取更多插件
 <img src="https://gitee.com/Haleydu/picture/raw/master/qrcode_for_gh_c573e41cd30f_258.jpg" width="250">
